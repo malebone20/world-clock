@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  margin-top: 550px;
+  font-size: 14px;
+  color: #555;
+}
+.footer a {
+  color: palegreen;
+  text-decoration: none;
+}
